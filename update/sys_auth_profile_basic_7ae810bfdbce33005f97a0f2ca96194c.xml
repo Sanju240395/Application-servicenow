@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>Sanju</name>
+        <password>I34apHbgoPxvP/6QfjLqcg==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 18:19:19</sys_created_on>
+        <sys_id>7ae810bfdbce33005f97a0f2ca96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sanju</sys_name>
+        <sys_package display_value="incident Automated testing framework" source="x_277611_incident">7e1df61fdb8233005f97a0f2ca961951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="incident Automated testing framework">7e1df61fdb8233005f97a0f2ca961951</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_7ae810bfdbce33005f97a0f2ca96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 18:19:19</sys_updated_on>
+        <username>Admin</username>
+    </sys_auth_profile_basic>
+</record_update>

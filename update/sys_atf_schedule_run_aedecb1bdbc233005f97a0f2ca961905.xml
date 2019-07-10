@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'My New Test Suite incident' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="My New Schedule">bcbe4b1bdbc233005f97a0f2ca96195f</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-20 18:19:57</sys_created_on>
+        <sys_id>aedecb1bdbc233005f97a0f2ca961905</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="incident Automated testing framework" source="x_277611_incident">7e1df61fdb8233005f97a0f2ca961951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="incident Automated testing framework">7e1df61fdb8233005f97a0f2ca961951</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_aedecb1bdbc233005f97a0f2ca961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-20 18:44:45</sys_updated_on>
+        <test_suite display_value="My New Test Suite incident">4a4f4f1bdbc233005f97a0f2ca96193a</test_suite>
+        <watch_list>6816f79cc0a8016401c5a33be04be441,62826bf03710200044e0bfc8bcbe5df1</watch_list>
+    </sys_atf_schedule_run>
+</record_update>
